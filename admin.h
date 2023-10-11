@@ -32,7 +32,7 @@ char username[100];
 char pass[100];
 };
 
-struct UserCredentials adminCredentials={"Jass","123"};
+struct UserCredentials adminCredentials={"aakash","sslab"};
 
 bool admin_operation_handler(int clientSocket)
 {
